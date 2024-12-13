@@ -3,7 +3,7 @@
 
 # Developer Portfolio Example
 
-![Developer Portfolio Example - Project Banner](assets/images/)
+![Developer Portfolio Example - Project Banner](/dev-portfolio.png)
 
 
 ## Introduction 
